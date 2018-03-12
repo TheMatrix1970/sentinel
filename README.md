@@ -43,7 +43,7 @@ Check the configuration setting appending any missing parameters.
     listen=1
     server=1
     discover=1
-    rpcport=9012
+    rpcport=20099
     rpcthreads=8
     rpcallowip=127.0.0.1
     daemon=1
