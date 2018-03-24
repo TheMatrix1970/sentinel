@@ -28,7 +28,7 @@ Make sure the local Quaz daemon running is at least version 1.0 (100000)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/quazproject/sentiel.git && cd sentinelLinux
+    $ git clone https://github.com/quazproject/sentinel.git && cd sentinelLinux
     $ export LC_ALL=C
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
